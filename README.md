@@ -1,5 +1,7 @@
 # Angular
 
+Projeto para teste servindo o frontend Angular no Google Cloud Storage.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.3.
 
 ## Development server
